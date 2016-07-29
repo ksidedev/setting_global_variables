@@ -1,0 +1,1 @@
+document.write(person.greeting + text);
